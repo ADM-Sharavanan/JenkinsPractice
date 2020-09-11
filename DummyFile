@@ -6,6 +6,7 @@ public class githubDummy {
 		
 		System.out.println("Git Hub dummy");
 		System.out.println("To check the trigger");
+		System.out.println("To check the trigger - 11/09/2020");
 
 	}
 
